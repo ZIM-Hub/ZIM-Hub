@@ -5,7 +5,7 @@
   -Programming, Database, Cyber Security
 - 💞️ I’m looking to collaborate on ...
   -My Team(Classmates), Projects
-- 📫 How to reach me ... - You can reach me from my email
+- 📫 How to reach me ... 
 
 <!---
 ZIM-Hub/ZIM-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
